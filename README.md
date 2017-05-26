@@ -1,5 +1,3 @@
 # DSI-SF-2-ocjacob
 
-A test file
-
-Now an update from my Mac's CLI.	
+Files from the DSI in SF in 2016.
