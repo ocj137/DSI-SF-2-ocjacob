@@ -1,1 +1,3 @@
-Pollitics
+# Politics 
+
+A small politics project
