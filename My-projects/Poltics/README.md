@@ -1,3 +1,3 @@
 # Politics 
 
-A smallish politics project
+A small politics project
