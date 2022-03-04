@@ -1,6 +1,6 @@
 ## Projects-PGE
 
-This project looks at relationships between PGE electrical usage and solar power accumulation in CA in 2012 - 2016?
+This project looks at relationships between PGE electrical usage and solar power accumulation in CA in 2012 - 2016
 
 Context: In CA, California Public Utilities Commision (CPUC) regulates California’s three large investor owned electric utilities – Pacific Gas and Electric (PG&E), Southern California Edison (SCE), and San Diego Gas and Electric (SDG&E). This study focuses on just PGE, so it is therefore incomplete. 
 As seen in the numbers below, PG&E only covers a portions of the state's area. 
