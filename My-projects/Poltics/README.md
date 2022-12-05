@@ -1,4 +1,4 @@
 # Politics 
 
-Small politics project
+it is a small politics project
 Staying small, in 2022
