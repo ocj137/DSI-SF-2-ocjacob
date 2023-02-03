@@ -1,4 +1,4 @@
 ## Community Buildingm
 
-begining a project on community building
+Begining a project on community building
 
