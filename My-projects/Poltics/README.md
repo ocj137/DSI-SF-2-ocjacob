@@ -1,4 +1,4 @@
 # Politics 
 
-it is a small politics project
-Staying small, in Feb 2023
+It is a small politics project
+Staying small, in Mar 2023
