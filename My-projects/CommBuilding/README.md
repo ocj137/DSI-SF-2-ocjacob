@@ -1,5 +1,5 @@
 ## Community Buildingm
 
-This is the begining a project on community building
+the begining a project on community building
 
 
